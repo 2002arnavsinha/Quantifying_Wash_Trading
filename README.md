@@ -1,4 +1,4 @@
-# OpenSea-NFT-Graph_Theory_Analysis-Python
+# Wash Trading in Opensea Marketplace
 
 <img width="563" alt="image" src="https://github.com/user-attachments/assets/229d6fd0-4564-4aca-b408-6409207c495b" />
 
